@@ -7,7 +7,13 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
@@ -22,7 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd7dc3a-f74b-412a-b88a-a78b728b86d2" name="デフォルト変更リスト" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +88,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604163384800</updated>
-      <workItem from="1604163386017" duration="48074000" />
+      <workItem from="1604163386017" duration="48255000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1604321969495</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604321969495</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1604321981053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604321981053</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,16 +115,36 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1935" y="458" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604209911706">
       <screen x="0" y="0" width="3440" height="1379" />
     </state>
     <state x="1935" y="458" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1379/3440.1082.1280.689/3440.2.1280.689@0.0.3440.1379" timestamp="1604209911706" />
+    <state x="2091" y="425" key="Vcs.Push.Dialog.v2" timestamp="1604321972229">
+      <screen x="0" y="0" width="3440" height="1379" />
+    </state>
+    <state x="2091" y="425" key="Vcs.Push.Dialog.v2/0.0.3440.1379/3440.1082.1280.689/3440.2.1280.689@0.0.3440.1379" timestamp="1604321972229" />
   </component>
 </project>
